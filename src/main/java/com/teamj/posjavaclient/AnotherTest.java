@@ -9,6 +9,6 @@ package com.teamj.posjavaclient;
  *
  * @author Dennys
  */
-public class Test {
+public class AnotherTest {
     
 }
